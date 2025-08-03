@@ -33,6 +33,20 @@
         > Given \<some precondition\>  
         > When \<some event happens\>  
         > Then \<some outcome\>  
+    ```
+    **As a** [role]  
+    **I need** [function]  
+    **So that** [benefit]  
+    
+    ### Details and Assumptions  
+        * [document what you know]  
+    
+    ### Acceptance Criteria  
+        gherkin  
+        Given [some context]  
+        When [certain action is taken]  
+        Then [the outcome of action is observed]  
+    ```  
 - **Technical debt** is any story that does not add perceived value to the stakeholder. Examples:  
     - Code refactoring  
     - Setup and maintenance of environments  

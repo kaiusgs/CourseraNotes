@@ -332,6 +332,8 @@
         - `name` assigns a name to the container.  
         - `ports` section specifies which ports should be exposed by the container.  
         - `resources` defines resource requests and limits for the container, such as CPU.  
+    - Tips to create K8s manifests  
+    ![tips](./static/09/tips.png)  
 - **ReplicaSet**  
 ![creating_replicaset](./static/09/creating_replicaset.png)  
 ![creating_deployment](./static/09/creating_deployment.png)  
